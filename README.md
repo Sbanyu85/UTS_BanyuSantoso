@@ -1,4 +1,4 @@
-# Deskripsi Pengumpulan Hasil Jawaban UTS
+# Pengumpulan Hasil Jawaban UTS
 ### Nama: Banyu Santoso
 ### NIM: 221011403287
 ### Kelas: 04TPLE016
