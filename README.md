@@ -1,7 +1,10 @@
 # Pengumpulan Hasil Jawaban UTS
+
+[Uploading UTS.PDF…]()
+
 ### Nama: Banyu Santoso
 ### NIM: 221011403287
-### Kelas: 04TPLE016
+### Kelas: 05TPLE016
 
 # Link Repository GitHub
 ### Hasil jawaban Ujian Tengah Semester (UTS) dapat diakses melalui link berikut:
