@@ -1,6 +1,6 @@
 # Pengumpulan Hasil Jawaban UTS
 
-![Uploading Screenshot 2024-11-02 at 16.45.17.png…]()
+![My Image](./UTS.pdf)
 
 ### Nama: Banyu Santoso
 ### NIM: 221011403287
